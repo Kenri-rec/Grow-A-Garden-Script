@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenri-rec/Grow-A-Garden-Script/refs/heads/main/KenriScripts-Hub"))()
