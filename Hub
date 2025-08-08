@@ -513,7 +513,7 @@ local Tab = Window:CreateTab("Grow A Garden Exploits", 4483362458)
 local Button = Tab:CreateButton({
    Name = "Pet Spawner",
    Callback = function()
-   local Spawner = loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+   local Spawner = loadstring(game:HttpGet("https://codeberg.org/darkdarkdark/roblox/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
    end,
 })
